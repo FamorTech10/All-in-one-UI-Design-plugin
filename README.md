@@ -11,25 +11,23 @@ All in one UI Design Plugin (i don't know a name yet) is a plugin that started a
 
 Gui object converter
 This incredible usefull tool converts any guiobject into other type of gui object for example you can convert a textlabel to a button and keep all of its properties!. This features was inspired by uiDesignPro
-!upload://yXt8TH7ltLSgGlyv9CHNmua2coP.png
+
 
 Align
 The align function came from Adobe Illustrator. It aligns a gui object in the screen
-upload://gOpSXE4KkHv7QL1j4QAMosKEDgd.png
+
 
 
 Basic object Transformation
 At least for me its always anoying having to scroll all the way down or up for a property, and its even worse having to change window for that, that problem vanished by adding basic transformations to the plugin. I will add more properties iin the next update.
-![image|304x311, 75%](upload://ocF3GHsj3Xu0b7x9gFUcy393y17.png)
+
 
 unit convertion
 Basic unit convertion to convert scale to offset and viceversa (inspired by AutoScaleLite)
-![image|306x127](upload://swHW8IJ3Qhxhy1ZZIfHBjIQkASI.png)
-[/details]
+
 
 And a few extra functions
 The Quick Actions holds functions that i tend to use a lot.
-![image|306x139](upload://9wQEa6ynpzuWGFtpBliqtMywDgD.png)
 
 
 ## Short showcase:
