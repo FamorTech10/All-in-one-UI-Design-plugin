@@ -35,7 +35,7 @@ https://youtu.be/pTgtDIpMO0Y
 Sorry for the screen weird tearing or idk what it is, i may have to reinstall obs
  
 
-Future features
+##Future features
 * Customization
 * Color picker 
 * Open source and modular for easy manipulation
@@ -47,3 +47,5 @@ Future features
 
 If you find a bug or have a suggestion please let me know.
 Thanks for reading.
+
+## You can contribute to the plugin by creating a pull request.
